@@ -1,0 +1,2 @@
+# djangofinalproj-static
+WITH CSS
